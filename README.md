@@ -6,7 +6,7 @@ Compatible with all known standard-sized flywheels on the market and "standard" 
 Minimum print settings: 3+ walls, 1mm+ roofs and floors. 0.3mm layer height. Print motor-side-down (default arrangement) with supports.
 My preferred print settings: 2mm walls (5 walls), 1.6mm roofs and floors, 0.2mm layer height. Support roofs enabled in Cura with 0.4mm Z gap for easy removal. 
 
-Please contact me at kurymakesthings@gmail.com or on Discord (Kuryaka #0932) in the BAFT or /r/Nerf servers (or wherever you happen to find me!) if you have questions or source file requests. 
+Please contact me at kurymakesthings@gmail.com or on Discord (Kuryaka #0932) in the BAFT or /r/Nerf servers if you have questions or source file requests. 
 
 Major Changelog: 
 v3: Teardrop shaped dart tunnel for printability, wider flywheel clearance. Chamfers instead of fillets to reduce filesize. 
